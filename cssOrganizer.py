@@ -1,5 +1,5 @@
 #Developer: Andrew Espindola
-#Desciption: This python program was created to scan through a CSS file and produce a more organized CSS file by grouping related
+#Description: This python program was created to scan through a CSS file and produce a more organized CSS file by grouping related
 #            CSS Properties within selectors. Created in my spare time for fun and my own utility. I probably won't get to updating this too much.
 #
 #0) File to be organized should be 'style.css' and in the same directory level as cssOrganizer when run
